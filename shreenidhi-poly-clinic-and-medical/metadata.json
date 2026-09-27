@@ -1,0 +1,6 @@
+{
+  "name": "Shreenidhi Poly Clinic and Medical",
+  "description": "Shreenidhi Poly Clinic and Medical in Bedarahalli, Bengaluru. View clinic information, services, location and request an appointment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
